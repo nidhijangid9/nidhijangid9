@@ -45,16 +45,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhijangid9&show_icons=true&theme=vue" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhijangid9&theme=vue" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Achievements
 
 - 2nd Runner-Up in SPIT Hackathon among 550+ competing teams
