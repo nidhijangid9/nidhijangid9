@@ -7,26 +7,6 @@
 
 I'm a Computer Science student at Sardar Patel Institute of Technology with a specialization in Data Science. I'm also pursuing a Minor Degree in Business Management from S.P. Jain Institute of Management and Research. Passionate about leveraging technology to create impactful solutions, I excel in developing AI-powered applications and web platforms that address real-world challenges.
 
-## 🚀 Featured Projects
-
-### SurakshaSathi - Women Safety App
-_Python, JavaScript, Django, LLM, Generative AI, Vosk, Twilio_
-- 🛡️ Advanced safety features including route anomaly detection and smart safety wearables
-- 🗺️ Personalized safety map with incident tracking and offline accessibility
-- 📱 Real-time chat support and instant audio/video capturing for emergencies
-
-### AI-Powered Cyclist Safety Assistant
-_Python, OpenCV, TensorFlow, IoT, Machine Learning, Computer Vision_
-- 🚲 Real-time detection of potholes, obstacles, and vehicle proximity for cyclists
-- 🔊 Voice-activated alerts and fatigue detection using facial expression analysis
-- 🔄 IoT-powered safety features including automatic braking and hazard detection
-- 📍 Location-based terrain insights using crowdsourced cycling data
-
-### Emobeats - Emotion Based Music Recommendation
-_Python, Machine Learning, Web Development_
-- 😊 Facial emotion recognition system processing 10,000+ images weekly
-- 🎵 Music recommendations tailored to detected emotions
-- ⚡ Achieved sub-500ms response time for real-time analysis
 
 ## 🛠️ Technical Skills
 
