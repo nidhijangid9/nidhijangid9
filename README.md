@@ -18,7 +18,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science (Data Science) at Sardar Patel Institute of Technology
+- 🎓 Pursuing B.Tech in Computer Science (Data Science) at Sardar Patel Institute of Technology (CGPA : 8.82)
 - 📚 Studying Business Management at S.P. Jain Institute of Management and Research
 - 💻 Web Developer with experience in React.js, Django, and Chakra UI
 - 🤖 Passionate about Machine Learning, Computer Vision, and AI applications
